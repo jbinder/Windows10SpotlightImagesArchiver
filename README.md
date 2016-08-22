@@ -11,3 +11,13 @@ Archives Windows 10 spotlight images to a local directory.
 To copy spotlight images from the cache to your account's Pictures/Windows10SpotlightImages directory, just run:
 
         w10sia.bat
+
+### Automatically run daily
+
+To schedule the archiver to execute daily, run:
+
+        install.bat
+
+To stop running the archiver, call:
+
+        uninstall.bat
