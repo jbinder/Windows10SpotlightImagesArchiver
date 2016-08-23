@@ -6,6 +6,8 @@ Archives Windows 10 spotlight images to a local directory.
 * Windows 10
 * Git for Windows, https://git-scm.com/download
 
+  Select 'Use Git and optional Unix tools from the Windows Command Prompt' when the installer asks for 'Adjusting your PATH environment'
+
 ## Usage
 
 To copy spotlight images from the cache to your account's Pictures/Windows10SpotlightImages directory, just run:
